@@ -392,9 +392,9 @@
   "POWER_BENDWILL.CHAT_SUCCESS": " controla ",
   "POWER_BENDWILL.CHAT_FAILURE": " resiste el intento.",
   
-  "POWER_BLACKBOLT.CHAT_INTRO": " traps its target in black fire.",
-  "POWER_BLACKBOLT.CHAT_SUCCESS": " is burned and paralyzed.",  
-  "POWER_BLACKBOLT.CHAT_FAILURE": " avoids the black bolt.",
+  "POWER_BLACKBOLT.CHAT_INTRO": " atrapa a su objetivo en fuego negro.",
+  "POWER_BLACKBOLT.CHAT_SUCCESS": " es quemado y paralizado.",  
+  "POWER_BLACKBOLT.CHAT_FAILURE": " esquiva el ataque.",
     
   "POWER_BLESSEDSHIELD.CHAT_INTRO": " intenta invocar la protección de Prios.",
   "POWER_BLESSEDSHIELD.CHAT_SUCCESS": " es rodeado por un escudo de luz.",
@@ -405,9 +405,9 @@
   "POWER_BRIMSTONECASC.CHAT_SUCCESS": " se quema.",  
   "POWER_BRIMSTONECASC.CHAT_FAILURE": " evita parte de los daños.",
   
-  "POWER_CONFUSION.EFFECT12": " stands still, blinking stupidly.",
-  "POWER_CONFUSION.EFFECT34": " attacks whichever of its allies is closest.",
-  "POWER_CONFUSION.EFFECT56": "  attacks whichever of its enemies is closest.",
+  "POWER_CONFUSION.EFFECT12": " se queda pasmado, parpadeando estúpidamente.",
+  "POWER_CONFUSION.EFFECT34": " ataca al aliado más cercano.",
+  "POWER_CONFUSION.EFFECT56": "  ataca al enemigo más cercano.",
 
   "POWER_CURSE.CHAT_INTRO": " lanza una maldición.",
   "POWER_CURSE.CHAT_INTRO_M": " mantiene una maldición.",
@@ -417,9 +417,9 @@
   "POWER_CURSE.CHAT_FAILURE": " no puede mantener la maldición.",
   "POWER_CURSE.CHAT_FAIL_FINAL": "La maldición ya no tiene efecto en ",
   
-  "POWER_ENTANGLINGVINES.CHAT_INTRO_M": " tries to break free from the vines.",
-  "POWER_ENTANGLINGVINES.CHAT_SUCCESS": " is entangled in the vines.",
-  "POWER_ENTANGLINGVINES.CHAT_FAILURE": " breaks free from the vines.",
+  "POWER_ENTANGLINGVINES.CHAT_INTRO_M": " intenta liberarse de las enredaderas.",
+  "POWER_ENTANGLINGVINES.CHAT_SUCCESS": " es atrapado por las enredaderas.",
+  "POWER_ENTANGLINGVINES.CHAT_FAILURE": " se libera de las enredaderas.",
 
   "POWER_HOLYAURA.CHAT_INTRO": " intenta canalizar la Luz de Prios.",
   "POWER_HOLYAURA.CHAT_SUCCESS": " emite una luz sagrada.",
